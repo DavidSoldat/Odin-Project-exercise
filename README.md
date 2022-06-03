@@ -1,8 +1,4 @@
-# hello-world
+# Odin Project
 
-Just a test
-Nothing else!
+Been following Odin Project and this is one of exercises I've done.
 
-## Subheader
-
-Just for fun.
